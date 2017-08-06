@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "554789882523",
+    "firebase_url": "https://softeng-a94c5.firebaseio.com",
+    "project_id": "softeng-a94c5",
+    "storage_bucket": "softeng-a94c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461577478128:android:230de685c8f97afc",
+        "android_client_info": {
+          "package_name": "com.exampledemo.parsaniahardik.gpsdemocode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461577478128-tmfvpp1sgek7028c2mlc0rfln3t4i4ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exampledemo.parsaniahardik.gpsdemocode",
+            "certificate_hash": "fe99a80af991013a30f3d15a1c1a43546f633e47"
+          }
+        },
+        {
+          "client_id": "461577478128-achqhb3hiufes33ho1ftgk5s5ujk5clg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE-BPSCCcdVsrq5sCRTMVqObT1A6i_fxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461577478128-achqhb3hiufes33ho1ftgk5s5ujk5clg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
